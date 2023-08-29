@@ -1,4 +1,4 @@
 # WORK
-First Repositiory
+First Repositiory.
 <br>
-Author - Jasmine.
+Author - Jasmine kaur .
